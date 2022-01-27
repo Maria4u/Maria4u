@@ -1,4 +1,4 @@
-### 🦖 Dinosaurus thought they had time too'
+### 🦖 Dinosaurs thought they had time too'
 
 <!--
 **Maria4u/Maria4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
